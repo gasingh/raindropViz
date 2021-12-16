@@ -1,6 +1,9 @@
 # raindropViz
 simulating a water droplet on a surface
 
+input a surface and a point and a step count for marching
+output a polycurve on the surface just a like a raindrop rolling on it
+
 ![rainDropSim_03-A_dropsOnlySrf](https://user-images.githubusercontent.com/6398561/146388106-e9ec07b9-b822-4183-9929-8dd5608b4ee4.JPG)
 ![rainDropSim_03-A_dropsWithSrf](https://user-images.githubusercontent.com/6398561/146388109-5c032e87-ee97-43dd-a77b-2c509b74ad44.JPG)
 
