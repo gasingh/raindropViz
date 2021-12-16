@@ -1,7 +1,7 @@
 """
 raindrop simulator_v0
 
-19:28 02/11/2021, 19:47 02/11/2021 with an ice-cream break!
+19:47 02/11/2021
 """
 
 import rhinoscriptsyntax as rs
