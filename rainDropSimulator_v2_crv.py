@@ -4,7 +4,7 @@ raindrop simulator_v0
 19:47 02/11/2021
 
 REFERENCE NOTE:
-The code hereis derived from an algorithm discussed in the following publication from Harvard GSD:    
+The code here is derived from an algorithm discussed in the following publication from Harvard GSD:    
     vb-workshop-harvard-gsd-woojsung-com1.pdf
     https://woojsung.com/2011/11/24/vb-workshop-harvard-gsd/
 """
