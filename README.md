@@ -9,7 +9,7 @@ simulating a water droplet on a surface
 ![rainDropSim_02-D](https://user-images.githubusercontent.com/6398561/146388156-4ea8ff0c-4cee-4912-9485-6c7910a51761.JPG)
 
 REFERENCE NOTE:
-The code here a translation of an algorithm discussed in the following publication from Harvard GSD:
+The code hereis derived from an algorithm discussed in the following publication from Harvard GSD:
     
     vb-workshop-harvard-gsd-woojsung-com1.pdf
     https://woojsung.com/2011/11/24/vb-workshop-harvard-gsd/
